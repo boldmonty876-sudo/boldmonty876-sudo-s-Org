@@ -1,0 +1,7 @@
+{
+  "name": "Smart Campus Canteen",
+  "description": "Skip the queue with online canteen ordering, digital pickup tokens, live order tracking, and campus food management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
